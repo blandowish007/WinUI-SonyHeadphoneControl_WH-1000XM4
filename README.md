@@ -15,7 +15,13 @@
 
 ## 截图
 
-<!-- TODO: 补充托盘 tooltip + 控制界面截图 -->
+### 待连接状态
+
+![待连接状态](docs/imgaes/待连接截图.png)
+
+### 连接成功（左键托盘 + tooltip）
+
+![连接成功tooltip](docs/imgaes/连接成功后左键托盘和tooltip截图.png)
 
 ## 免责声明
 
