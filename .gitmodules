@@ -1,0 +1,9 @@
+[submodule "reference/WinUI-SonyHeadphonesClient-upstream"]
+	path = reference/WinUI-SonyHeadphonesClient-upstream
+	url = https://github.com/dustbin1415/WinUI-SonyHeadphonesClient.git
+[submodule "reference/Plutoberth-SonyHeadphonesClient-upstream"]
+	path = reference/Plutoberth-SonyHeadphonesClient-upstream
+	url = https://github.com/Plutoberth/SonyHeadphonesClient.git
+[submodule "reference/sony-headphones-bluetooth-documentation"]
+	path = reference/sony-headphones-bluetooth-documentation
+	url = https://github.com/ohm-app/sony-headphones-bluetooth-documentation.git
